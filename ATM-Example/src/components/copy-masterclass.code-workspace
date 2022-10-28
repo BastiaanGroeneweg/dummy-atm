@@ -1,0 +1,26 @@
+{
+  "folders": [
+	{
+		"name": "vue-masterclass",
+		"path": "../.."
+	}
+],
+  "settings": {
+    "css.validate": false,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "eslint.validate": ["javascript", "vue"],
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tailwindCSS.includeLanguages": {
+      "html": "html",
+      "javascript": "javascript",
+      "css": "css"
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    }
+  }
+}
